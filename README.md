@@ -62,7 +62,10 @@ bin/gol-gecode 10 30 < example.txt
 ```
 
 
-License
--------
+Licenses
+--------
 
-This software is released under the MIT License.
+* This software is released under the MIT License.
+
+* [Gecode](https://www.gecode.org/) is released under the license : [https://www.gecode.org/license.html](https://www.gecode.org/license.html).
+
